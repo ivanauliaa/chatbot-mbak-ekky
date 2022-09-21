@@ -1,0 +1,7 @@
+beautifulsoup4==4.11.1
+Flask==2.0.1
+Flask_Cors==3.0.10
+html2text==2020.1.16
+mysql_connector_python==8.0.30
+nltk==3.5
+Sastrawi==1.0.1
